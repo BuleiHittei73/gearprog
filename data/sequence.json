@@ -120,10 +120,14 @@
     ],
     [
         "Voidwaker",
-        "Dragon pickaxe",
+        "Dragon pickaxe"
+    ],
+    [
         "Oathplate chest",
         "Oathplate legs",
-        "Oathplate helm"
+        "Oathplate helm",
+        "Zaryte crossbow",
+        "Zaryte vambraces"
     ],
     [
         "Twisted bow",
@@ -139,21 +143,29 @@
         "Ghommal's hilt 4"
     ],
     [
-        "Desert amulet 4",
-        "Rada's blessing 4"
-    ],
-    [
         "Rigour",
         "Augury"
     ],
     [
-        "Infernal cape"
+        "Infernal cape",
+        "Dizana's quiver"
     ],
     [
         "Ultor ring"
     ],
     [
-        "Dizana's quiver"
+        "Primordial boots",
+        "Amulet of rancour",
+        "Eternal boots",
+        "Occult necklace"
+    ],
+    [
+        "Dragon hunter lance",
+        "Ferocious gloves"
+    ],
+    [
+        "Desert amulet 4",
+        "Rada's blessing 4"
     ],
     [
         "Tumeken's shadow",
@@ -166,12 +178,6 @@
         "Elidinis' ward"
     ],
     [
-        "Primordial boots",
-        "Amulet of rancour",
-        "Eternal boots",
-        "Occult necklace"
-    ],
-    [
         "Saturated heart",
         "Venator ring",
         "Venator bow"
@@ -182,8 +188,6 @@
     [
         "Torva platebody",
         "Torva platelegs",
-        "Torva full helm",
-        "Zaryte crossbow",
-        "Zaryte vambraces"
+        "Torva full helm"
     ]
 ]
