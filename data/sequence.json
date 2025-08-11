@@ -70,7 +70,18 @@
         "Void knight gloves",
         "Elite void top",
         "Elite void robe",
-        "Crystal halberd"
+        "Blue moon helm",
+        "Blue moon chestplate", 
+        "Blue moon tassets",
+        "Blue moon spear",
+        "Blood moon helm",
+        "Blood moon chestplate",
+        "Blood moon tassets",
+        "Eclipse moon helm",
+        "Eclipse moon chestplate",
+        "Eclipse moon tassets",
+        "Eclipse atlatl",
+        "Dual macuahuitl"
     ],
     [
         "92 ranged",
@@ -91,7 +102,8 @@
         "Dragon warhammer",
         "Emberlight",
         "Scorching bow",
-        "Burning claws"
+        "Burning claws",
+        "Dragon hunter wand"
     ],
     [
         "Avernic defender",

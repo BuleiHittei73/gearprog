@@ -798,6 +798,71 @@
         "wikiLink": "https://oldschool.runescape.wiki/w/Ghommal's_hilt_2",
         "itemID": "25928"
     },
+    "Blue moon tassets": {
+        "itemID": "28760",
+        "imgSrc": "images/Blue_moon_tassets.webp",
+        "wikiLink": "https://oldschool.runescape.wiki/w/Blue_moon_tassets"
+    },
+    "Blue moon chestplate": {
+        "itemID": "28757",
+        "imgSrc": "images/Blue_moon_chestplate.webp",
+        "wikiLink": "https://oldschool.runescape.wiki/w/Blue_moon_chestplate"
+    },
+    "Blue moon helm": {
+        "itemID": "28754",
+        "imgSrc": "images/Blue_moon_helm.webp",
+        "wikiLink": "https://oldschool.runescape.wiki/w/Blue_moon_helm"
+    },
+    "Blue moon spear": {
+        "itemID": "28763",
+        "imgSrc": "images/Blue_moon_spear.webp",
+        "wikiLink": "https://oldschool.runescape.wiki/w/Blue_moon_spear"
+    },
+    "Blood moon tassets": {
+        "itemID": "28772",
+        "imgSrc": "images/Blood_moon_tassets.webp",
+        "wikiLink": "https://oldschool.runescape.wiki/w/Blood_moon_tassets"
+    },
+    "Blood moon chestplate": {
+        "itemID": "28769",
+        "imgSrc": "images/Blood_moon_chestplate.webp",
+        "wikiLink": "https://oldschool.runescape.wiki/w/Blood_moon_chestplate"
+    },
+    "Blood moon helm": {
+        "itemID": "28766",
+        "imgSrc": "images/Blood_moon_helm.webp",
+        "wikiLink": "https://oldschool.runescape.wiki/w/Blood_moon_helm"
+    },
+    "Dual macuahuitl": {
+        "itemID": "28775",
+        "imgSrc": "images/Dual_macuahuitl.webp",
+        "wikiLink": "https://oldschool.runescape.wiki/w/Dual_macuahuitl"
+    },
+    "Eclipse moon tassets": {
+        "itemID": "28784",
+        "imgSrc": "images/Eclipse_moon_tassets.webp",
+        "wikiLink": "https://oldschool.runescape.wiki/w/Eclipse_moon_tassets"
+    },
+    "Eclipse moon chestplate": {
+        "itemID": "28781",
+        "imgSrc": "images/Eclipse_moon_chestplate.webp",
+        "wikiLink": "https://oldschool.runescape.wiki/w/Eclipse_moon_chestplate"
+    },
+    "Eclipse moon helm": {
+        "itemID": "28778",
+        "imgSrc": "images/Eclipse_moon_helm.webp",
+        "wikiLink": "https://oldschool.runescape.wiki/w/Eclipse_moon_helm"
+    },
+    "Eclipse atlatl": {
+        "itemID": "28787",
+        "imgSrc": "images/Eclipse_atlatl.webp",
+        "wikiLink": "https://oldschool.runescape.wiki/w/Eclipse_atlatl"
+    },
+    "Dragon hunter wand": {
+    "itemID": "28790",
+    "imgSrc": "images/Dragon_hunter_wand.webp",
+    "wikiLink": "https://oldschool.runescape.wiki/w/Dragon_hunter_wand"
+    },
     "Ghommal's hilt 4": {
         "imgSrc": "images/Ghommal's_hilt_4.webp",
         "wikiLink": "https://oldschool.runescape.wiki/w/Ghommal's_hilt_4",
